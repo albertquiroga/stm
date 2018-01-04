@@ -40,6 +40,10 @@ CLI flags are:
 
 The identity file is a simple CSV file in the form of botAPIkey,chatID. If you want to always use the same file and not specify it, you can store it in your $HOME directory as ".stm" and stm will automatically use those credentials (if they are not overriden by flags).
 
+Example file:
+
+`110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw,1281283`
+
 Finally, the message will be passed as an argument when summoning stm (remember to surround it in double quotes if it includes spaces).
 
 ## Credits
