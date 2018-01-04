@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/albertquiroga/stm.svg?branch=master)](https://travis-ci.org/albertquiroga/stm) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5cdd1b3c58264f1e8e3a8973c9150d35)](https://www.codacy.com/app/albertquiroga/stm?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=albertquiroga/stm&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/albertquiroga/stm.svg?branch=master)](https://travis-ci.org/albertquiroga/stm) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5cdd1b3c58264f1e8e3a8973c9150d35)](https://www.codacy.com/app/albertquiroga/stm?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=albertquiroga/stm&amp;utm_campaign=Badge_Grade) [![codecov](https://codecov.io/gh/albertquiroga/stm/branch/master/graph/badge.svg)](https://codecov.io/gh/albertquiroga/stm)
 
 # stm
 Simple Telegram message sender written in Go.
