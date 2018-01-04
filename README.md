@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/albertquiroga/stm.svg?branch=master)](https://travis-ci.org/albertquiroga/stm)
+
 # stm
 Simple Telegram message sender written in Go.
 
