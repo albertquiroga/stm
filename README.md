@@ -7,7 +7,10 @@ Simple Telegram message sender written in Go.
 stm (**s**end **t**elegram **m**essage) is a binary tool to easily send Telegram messages using the [HTTP-based Telegram bot API](https://core.telegram.org/bots/api#making-requests). Using this tool you'll easily be able to send messages to Telegram users, allowing you to automate services or provide server information to your users.
 
 ## Installation
-There are no packages for now, so you can either compile the source code using a simple go install (you'll need the [kingpin.v2 go library](https://github.com/alecthomas/kingpin)) or download the proper binary from the [releases page](https://github.com/albertquiroga/stm/releases) and copy it to a location in your PATH.
+There are no packages for now, so you can either:
+
+* Download, compile and install the source code using the standard go tools: `go get github.com/albertquiroga/stm`. This will install the binary in your `$GOPATH/bin` directory or in `$HOME/go/bin` if you don't have a `$GOPATH`.
+* Download the proper binary from the [releases page](https://github.com/albertquiroga/stm/releases) and copy it to a location in your PATH.
 
 ## Usage
 stm allows you to send messages to any user or chatroom in Telegram from a bot user. In order to do that you'll need:
